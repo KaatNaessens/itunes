@@ -1,0 +1,51 @@
+
+body{
+    background-color:#e9edf0;
+    
+}
+
+.container{
+    background-color: #FFFFFF;
+}
+
+p{
+    margin-top: 40px;
+    font-family:Muli;
+}
+
+.table{
+    margin-top: 30px;
+}
+
+.img-fluid{
+    margin-top: 80px;
+}
+.figure:hover{
+  
+        opacity: 0.5;
+        filter: alpha(opacity=50); /* For IE8 and earlier */
+  
+}
+#fb:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+#twitter:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+#yt:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+ 
+td{
+    color: #0098b4;
+}
+.titel{
+    color: #0098b4;
+    
+}
+
+
+
